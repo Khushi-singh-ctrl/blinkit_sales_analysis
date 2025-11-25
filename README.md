@@ -32,5 +32,8 @@ This repository contains SQL queries, data-cleaning steps, KPI calculations, and
 - This repository assumes a relational database environment (e.g., SQL Server, PostgreSQL). Minor syntax adjustments may be required for different SQL dialects (e.g., `ISNULL` vs `COALESCE`).
 - For production or collaboration, switch the development SQLite setup (if any) to PostgreSQL and follow best practices for credentials and secrets (use `.env` not checked into Git).
 
+
+  Note: The Power BI dashboard (.pbix) file will be uploaded soon.
+
 ---
 _This package was generated automatically from the user's uploaded Query.pdf. For the original PDF see `Query.pdf` included in this repo._
